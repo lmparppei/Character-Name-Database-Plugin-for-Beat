@@ -2,6 +2,8 @@
 
 A bare-bones Beat plugin using Trelby's name database. This should be optimized and polished.
 
-Copy the whole plugin folder under `~/Application Support/Beat/Plugins/`.
+Copy the "Character Name Database.beatPlugin" folder to `~/Application Support/Beat/Plugins/`.
 
-**NOTE**: Requires Beat 1.7b or later. 
+Beat's plugins folder can also be opened through the application itself. Under the "Tools" menu, navigate to "Plugins" and select "Open Plugin Folder...", which then opens the folder in Finder.
+
+**NOTE**: Requires Beat 1.7.2 or later.
